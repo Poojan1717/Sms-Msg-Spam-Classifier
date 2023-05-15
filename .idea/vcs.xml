@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../../../" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sms-Msg-Spam-Classifier" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Spam-Message-Classifier" vcs="Git" />
   </component>
 </project>
